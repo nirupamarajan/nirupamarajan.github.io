@@ -4,7 +4,7 @@ title: "many course meal."
 # author: "Chester"
 tags: Tutorial
 excerpt_separator: <!--more-->
-sticky: true
+# sticky: true
 location: "Chicago"
 date: "2 SEPTEMBER 2024"
 time: "5:15 PM"
